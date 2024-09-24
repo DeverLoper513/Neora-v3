@@ -222,3 +222,10 @@ body {
 .yotpo-custom-questions-range-question:not(:has(.yotpo-progress-bar-value-point)) .yotpo-custom-questions-range-question-wrapper .yotpo-custom-questions-range-question-value:before{
 	content: unset !important
 }
+
+@media screen and (min-width: 480px){
+	.wrapper{
+		padding: 0 !important;
+	}
+	
+}
