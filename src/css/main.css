@@ -223,9 +223,8 @@ body {
 	content: unset !important
 }
 
-@media screen and (min-width: 480px){
+@media screen and (max-width: 480px){
 	.wrapper{
 		padding: 0 !important;
-	}
-	
+	}	
 }
