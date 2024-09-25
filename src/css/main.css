@@ -16,10 +16,6 @@
   scroll-behavior: smooth;
 }
 
-a{
-	text-decoration: none !important;
-}
-
 body {
   background-color: var(--generic-template-background) !important;
 }
